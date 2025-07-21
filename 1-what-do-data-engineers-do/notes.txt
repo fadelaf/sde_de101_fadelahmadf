@@ -1,0 +1,30 @@
+Imagine that you are hired to enable data analytics; 
+where would you start? 
+How would you go about gathering requirements? 
+
+
+1. Understanding Business Objective
+
+I need to undertand what are the key business goals,
+what decisions stakeholders need to make.
+Understanding the business goals will help me to gather relevant data. 
+
+2. Understanding the Data
+
+I need to communicate with the stakeholders to know what data stakeholders needs.
+It can be known by understanding their day-to-day decisions and activities that used.
+
+3. Define The Reporting needs
+
+I need to define what information they want to get from the data by seeing dashboard reporting.
+It can be frequency, location, total, etc.
+
+4. Into technical
+
+After I already know the requirements, I start into technical stuff of Data Engineer.
+It start to get data from the sources, doing ETL, store into data warehouse, until deliver data into information by making visualization dashboard.
+
+5. Always involves the stakeholders
+
+I will validate by confirming the data sources used by stakeholders and the dashboards they require, 
+to I am on the right track.
